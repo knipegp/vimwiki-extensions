@@ -6,6 +6,7 @@ authors = ["Griffin Knipe <knipegp@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pynvim = "^0.4.3"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.931"
